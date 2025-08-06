@@ -66,7 +66,7 @@ Compare une variable locale initialisée à 1337
 
 Si égal →affiche message erreur et quitte
 
-Sinon →affiche message, exécute une commande shell via system() affiche message erreur et quitte avec code 1337
+Sinon →affiche message, exécute une commande shell via system()
 
 ## approche de l'exploit
 
